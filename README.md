@@ -1,11 +1,11 @@
-Запустить приложение:\n
-  docker compose up -d
-Приложение запускается на 3000 порту.
-
-PgAdmin запускается на 5050 порту. Для входа в pgAdmin нужны данные:
-  Логин: pgadmin4@pgamin.org
-  Пароль: admin
-  
+Запустить приложение:<br />
+  docker compose up -d<br />
+Приложение запускается на 3000 порту.<br />
+<br />
+PgAdmin запускается на 5050 порту. Для входа в pgAdmin нужны данные:<br />
+  Логин: pgadmin4@pgamin.org<br />
+  Пароль: admin<br />
+<br />
 Postgres запускается на 5432 порту. Для доступа к БД db_appeals нужны данные:
   Логин: postgres
   Пароль: password
